@@ -1,2 +1,5 @@
 .ropeproject
 geckodriver.log
+
+# Python
+__pycache__
